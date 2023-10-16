@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LocalSend (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "LocalSend (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
